@@ -1,5 +1,6 @@
 ### WCPS PYTHON Library
-## Anshu Kushwaha, Elias Ouali, Stefan Dusnoki & Blaise Mbogho
+## Authors:
+# Anshu Kushwaha, Elias Ouali, Stefan Dusnoki & Blaise Mbogho
 
 
 ## Description
