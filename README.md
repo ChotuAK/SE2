@@ -1,10 +1,7 @@
-## PAIR 21(Sprint 1)
-## Authors(Sprint 1) - Stefan Dusnoki & Blaise Mbogho
+### WCPS PYTHON Library
+## Anshu Kushwaha, Elias Ouali, Stefan Dusnoki & Blaise Mbogho
 
-## Continuing Sprint 2
-### Authors(Sprint 2) - Anshu Kushwaha & Elias Ouali 
 
-#
 ## Description
 This project showcases the functionality of interacting with a DataCube server by using the Python programming language. Some functionalities such as the ability to return the average out of a set, returning statistical data from a 3d set in thee form of a one dimensional subset.
 ## Example Usage
@@ -54,6 +51,8 @@ dbo.clear()
 - Subset Extraction: Fetching a 1 dimensional subset out of a 3d data set.
 - Images: Downloads the images of different weather conditions based on the query.
 - Dynamic queries generation: Queries are generated dynamically taking values for Lat, Lon, Ansi, etc for desired function.
+- Advanced Statistical Analysis: Extended the library to include functions for calculating more complex statistical data directly from the DataCube server, such as variance and standard deviation.
+- Improved Temperature Conversion: Enhanced the conversion functions to support more precise conversions between temperature scales, including new utility functions for real-time data transformation.
 
 ## To test all the features
 
@@ -77,12 +76,9 @@ To run the tests, a user simply has to be in the root directory of the package a
 ```python
 python src/rascode/test.py
 ```
-## Key Updates and New Functionalities (Sprint 2)
 
-### Enhanced Features
 
-- **Advanced Statistical Analysis**: Extended the library to include functions for calculating more complex statistical data directly from the DataCube server, such as variance and standard deviation.
-- **Improved Temperature Conversion**: Enhanced the conversion functions to support more precise conversions between temperature scales, including new utility functions for real-time data transformation.
+
 
 ### New Functionalities
 
